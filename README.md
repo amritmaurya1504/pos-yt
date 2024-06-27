@@ -1,8 +1,27 @@
-# React + Vite
+## Resturant POS(Point of sale) System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Tech Stack Used.
+| Aspect            | Technology        |
+|-------------------|-------------------|
+| Frontend Framework| React             |
+| State Management  | Redux             |
+| Styling           | Tailwind CSS      |
+| Icons             | Heroicons         |
+| Payment Gateway   | Stripe / Razorpay |
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+[![Website](https://img.shields.io/website?label=Video-Demo&style=for-the-badge&url=https://youtu.be/XILpcUiC9fs)](https://youtu.be/XILpcUiC9fs)
+
+
+![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1671549392/Screenshot_20221220_204352_lpg1z6.png)
+
+### Add Customer
+<br>
+
+![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1671549540/Screenshot_20221220_204723_igll9u.png)
+
+<br>
+
+![Test Image 5](https://res.cloudinary.com/amritrajmaurya/image/upload/v1671549548/Screenshot_20221220_204754_ncjnou.png)
